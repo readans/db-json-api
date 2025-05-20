@@ -1,42 +1,34 @@
 {
-  "posts": [
-  {
-    "id": 1,
-    "name": "FIESTA"
-  },
-  {
-    "id": 2,
-    "name": "ECOSPORT"
-  },
-  {
-    "id": 3,
-    "name": "EXPEDITION EDDIE BAUER"
-  },
-  {
-    "id": 4,
-    "name": "EXPLORER XLT"
-  },
-  {
-    "id": 5,
-    "name": "SPORT TRAC"
-  },
-  {
-    "id": 6,
-    "name": "ESCAPE"
-  },
-  {
-    "id": 7,
-    "name": "F150"
-  },
-  {
-    "id": 8,
-    "name": "FUSION"
-  },
-  {
-    "id": 9,
-    "name": "EDGE"
-  }
-],
+  "tipos_documento": [
+    {
+      "id": 1,
+      "name": "Tarjeta de identidad"
+    },
+    {
+      "id": 2,
+      "name": "Cédula de ciudadanía"
+    },
+    {
+      "id": 3,
+      "name": "Cédula de extranjería"
+    },
+    {
+      "id": 4,
+      "name": "Pasaporte"
+    },
+    {
+      "id": 5,
+      "name": "NIT"
+    },
+    {
+      "id": 6,
+      "name": "Registro civil"
+    },
+    {
+      "id": 7,
+      "name": "Permiso especial de permanencia"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
