@@ -29,6 +29,32 @@
       "name": "Permiso especial de permanencia"
     }
   ],
+    "productos": [
+    {
+      "id": 1,
+      "name": "Portátil Lenovo ThinkPad",
+      "description": "Portátil de alto rendimiento con procesador Intel i7 y 16GB RAM.",
+      "price": 3500000
+    },
+    {
+      "id": 2,
+      "name": "Mouse inalámbrico Logitech",
+      "description": "Mouse ergonómico con conexión Bluetooth y batería recargable.",
+      "price": 95000
+    },
+    {
+      "id": 3,
+      "name": "Monitor Samsung 24 pulgadas",
+      "description": "Monitor Full HD con panel IPS y entradas HDMI/VGA.",
+      "price": 720000
+    },
+    {
+      "id": 4,
+      "name": "Teclado mecánico Redragon",
+      "description": "Teclado con retroiluminación RGB y switches rojos.",
+      "price": 210000
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
