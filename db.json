@@ -1,59 +1,12 @@
 {
-  "tipos_documento": [
-    {
-      "id": 1,
-      "name": "Tarjeta de identidad"
-    },
-    {
-      "id": 2,
-      "name": "Cédula de ciudadanía"
-    },
-    {
-      "id": 3,
-      "name": "Cédula de extranjería"
-    },
-    {
-      "id": 4,
-      "name": "Pasaporte"
-    },
-    {
-      "id": 5,
-      "name": "NIT"
-    },
-    {
-      "id": 6,
-      "name": "Registro civil"
-    },
-    {
-      "id": 7,
-      "name": "Permiso especial de permanencia"
-    }
+  "posts": [
+    { "id": 1, "name": "Post 1" },
+    { "id": 2, "name": "Post 2" },
+    { "id": 3, "name": "Post 3" }
   ],
-    "productos": [
-    {
-      "id": 1,
-      "name": "Portátil Lenovo ThinkPad",
-      "description": "Portátil de alto rendimiento con procesador Intel i7 y 16GB RAM.",
-      "price": 3500000
-    },
-    {
-      "id": 2,
-      "name": "Mouse inalámbrico Logitech",
-      "description": "Mouse ergonómico con conexión Bluetooth y batería recargable.",
-      "price": 95000
-    },
-    {
-      "id": 3,
-      "name": "Monitor Samsung 24 pulgadas",
-      "description": "Monitor Full HD con panel IPS y entradas HDMI/VGA.",
-      "price": 720000
-    },
-    {
-      "id": 4,
-      "name": "Teclado mecánico Redragon",
-      "description": "Teclado con retroiluminación RGB y switches rojos.",
-      "price": 210000
-    }
+  "comments": [
+    { "id": 1, "name": "some comment"},
+    { "id": 2, "name": "some comment"}
   ],
   "profile": {
     "name": "typicode"
