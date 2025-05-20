@@ -1,0 +1,43 @@
+{
+  "posts": [
+  {
+    "id": 1,
+    "name": "FIESTA"
+  },
+  {
+    "id": 2,
+    "name": "ECOSPORT"
+  },
+  {
+    "id": 3,
+    "name": "EXPEDITION EDDIE BAUER"
+  },
+  {
+    "id": 4,
+    "name": "EXPLORER XLT"
+  },
+  {
+    "id": 5,
+    "name": "SPORT TRAC"
+  },
+  {
+    "id": 6,
+    "name": "ESCAPE"
+  },
+  {
+    "id": 7,
+    "name": "F150"
+  },
+  {
+    "id": 8,
+    "name": "FUSION"
+  },
+  {
+    "id": 9,
+    "name": "EDGE"
+  }
+],
+  "profile": {
+    "name": "typicode"
+  }
+}
